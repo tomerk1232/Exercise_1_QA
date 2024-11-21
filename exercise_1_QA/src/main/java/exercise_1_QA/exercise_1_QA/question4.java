@@ -1,7 +1,12 @@
 package exercise_1_QA.exercise_1_QA;
 
 public class question4 {
-	
+
+	/**
+ 	* students submitting :
+ 	* Tomer Katz
+	 * Noam Keter
+ 	*/	
 	public static String Compare(double a , double b, String mod) {
 		if(mod.equalsIgnoreCase("Regular")) {
 			return (a >= b) ? "A" : "B";
