@@ -1,7 +1,9 @@
 package exercise_1_QA.exercise_1_QA;
 
 /**
- * Hello world!
+ * students submitting :
+ * Tomer Katz
+ * Noam Keter
  */
 public class App {
     public static void main(String[] args) {
