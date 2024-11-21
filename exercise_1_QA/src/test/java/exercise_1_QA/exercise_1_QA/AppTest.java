@@ -8,8 +8,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 /**
- * Unit test for simple App.
+ * students submitting :
+ * Tomer Katz
+ * Noam Keter
  */
+
 public class AppTest {
 
 	question4 tester = new question4();
